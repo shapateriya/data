@@ -6,3 +6,4 @@ observationAbout: C:USDA_AgricultureSurvey->observationAbout
 observationPeriod: "P1Y"
 value: C:USDA_AgricultureSurvey->value
 unit: C:USDA_AgricultureSurvey->unit
+
